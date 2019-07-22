@@ -19,6 +19,7 @@ const Inputs = ({currency, value, total, handleChange}) => (
       name="crypto-field" 
       id="crypto-field"
       value={total}
+      disabled
       /> 
     </div>
   </div>
