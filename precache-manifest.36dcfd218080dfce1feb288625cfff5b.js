@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1df7a20bc1991db7d917de79b8d07452",
+    "revision": "7ab864d85cb6a6880fdf0156dd326d80",
     "url": "/crypto_calculator/index.html"
   },
   {
-    "revision": "2fb0d44fb078842fd915",
+    "revision": "6beec2a18afeeacc65b8",
     "url": "/crypto_calculator/static/css/main.2ba88755.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crypto_calculator/static/js/2.b0d4d72d.chunk.js"
   },
   {
-    "revision": "2fb0d44fb078842fd915",
-    "url": "/crypto_calculator/static/js/main.c8cb9b57.chunk.js"
+    "revision": "6beec2a18afeeacc65b8",
+    "url": "/crypto_calculator/static/js/main.7f630cbc.chunk.js"
   },
   {
     "revision": "f260c62a6013c18fd9a7",

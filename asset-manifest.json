@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypto_calculator/static/css/main.2ba88755.chunk.css",
-    "main.js": "/crypto_calculator/static/js/main.c8cb9b57.chunk.js",
-    "main.js.map": "/crypto_calculator/static/js/main.c8cb9b57.chunk.js.map",
+    "main.js": "/crypto_calculator/static/js/main.7f630cbc.chunk.js",
+    "main.js.map": "/crypto_calculator/static/js/main.7f630cbc.chunk.js.map",
     "runtime~main.js": "/crypto_calculator/static/js/runtime~main.3280b272.js",
     "runtime~main.js.map": "/crypto_calculator/static/js/runtime~main.3280b272.js.map",
     "static/js/2.b0d4d72d.chunk.js": "/crypto_calculator/static/js/2.b0d4d72d.chunk.js",
     "static/js/2.b0d4d72d.chunk.js.map": "/crypto_calculator/static/js/2.b0d4d72d.chunk.js.map",
     "index.html": "/crypto_calculator/index.html",
-    "precache-manifest.4bb82e6a72218e4b885075a458227616.js": "/crypto_calculator/precache-manifest.4bb82e6a72218e4b885075a458227616.js",
+    "precache-manifest.36dcfd218080dfce1feb288625cfff5b.js": "/crypto_calculator/precache-manifest.36dcfd218080dfce1feb288625cfff5b.js",
     "service-worker.js": "/crypto_calculator/service-worker.js",
     "static/css/main.2ba88755.chunk.css.map": "/crypto_calculator/static/css/main.2ba88755.chunk.css.map",
     "static/media/App.css": "/crypto_calculator/static/media/litecoin_round.f842291a.svg"
